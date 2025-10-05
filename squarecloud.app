@@ -1,0 +1,5 @@
+DISPLAY_NAME=Bot dv 2.0
+MAIN=main.py
+VERSION=recommended
+MEMORY=256
+AUTORESTART=true
